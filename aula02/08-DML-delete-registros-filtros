@@ -1,0 +1,6 @@
+select * from pessoa;
+
+delete from pessoa
+--select * from pessoa
+where
+id = 6;
